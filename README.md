@@ -17,7 +17,7 @@ Just fork the repo, clone it in your working environment
 Run the following command :
 <pre>
 <code>
-custom.py -I <path-to-your-image> -M (optional) <model you want to choose>
+custom.py -I "path-to-your-image" -M (optional) "model you want to choose"
 </code>
 </pre>
 
